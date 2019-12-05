@@ -18,4 +18,8 @@ public class MyClass {
     public void test2(){
         System.out.println("本人更新第二人第一次修改后在修改");
     }
+
+    public void test4(){
+        System.out.println("dev1来改一下");
+    }
 }
